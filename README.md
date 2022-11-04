@@ -47,9 +47,9 @@
 |Ariana|7|308006|
 |Sidi Bouzid|13|300240|
 |Tunis 1|11|299630|
+
 ![Alt text](img/npinsc_deg.png "isie")
-▶
-On remarque que les délégations ayant le nombre d'inscrits le plus elevé sont celles ayant un nombre de bureau de vote le plus elevé donc on peut constater que le nombre d'inscrit est proportionnel avec le nombre de bureau de vote
+▶On remarque que les délégations ayant le nombre d'inscrits le plus elevé sont celles ayant un nombre de bureau de vote le plus elevé donc on peut constater que le nombre d'inscrit est proportionnel avec le nombre de bureau de vote
 
 
 # **Inscrits par tranche d'age** :
