@@ -5,5 +5,4 @@ Mini projet TEST
 ![icon]
 ```
 
-https://mybinder.org/v2/gh/SeifAllah-BS/Mini_projetAD/main
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SeifAllah-BS/Mini_projetAD/main)
