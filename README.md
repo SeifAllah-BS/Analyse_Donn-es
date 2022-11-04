@@ -1,10 +1,20 @@
-# :open_file_folder: Analyse_Donn-es 
+# :open_file_folder: Inscriptions Elections présidentielles 2019 
 
-![Alt text](img/logo.png "isie")
 
-# ** TOP 10 délégations ** :
+# **TOP 10 délégations** :
 
-![Alt text](img/glob_top_deleg.png "isie")
+|index|&gt;60F|&gt;60H|45-60F|45-60H|26-45F|26-45H|18-25F|18-25H|Nombre d&\#39;inscrits|Nombre de bureau de vote |Délégation|Région|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|0|8602|8835|11110|10219|19281|17317|6016|5876|87256|22|Ariana Medina|Ariana|
+|207|6313|6876|8937|10417|14640|14897|5879|6306|74265|21|Sfax Medina|Sfax 2|
+|206|5679|7297|8540|9701|14115|14673|4932|5272|70209|25|Sfax Sud|Sfax 2|
+|205|6046|6878|8287|9226|14809|14792|4564|4762|69364|18|Sfax Ouest|Sfax 2|
+|198|5034|6468|8193|9397|13718|14166|4866|4776|66618|23|Sakiet edaer|Sfax 1|
+|239|3895|5232|7431|7831|14138|13231|5714|5502|62974|30|Gafsa Sud|Gafsa|
+|199|4843|6006|7763|9030|12874|12954|4604|4815|62889|23|Sakiet Ezzit|Sfax 1|
+|48|3985|4690|7223|7769|14279|12661|4999|4464|60070|19|Monastir|Monastir|
+|4|4413|5575|7754|8455|13897|12914|3634|3081|59723|16|La Soukra|Ariana|
+|133|6013|6281|8026|7668|12472|11168|3363|3021|58012|16|mersa|Tunis 2|
 
 # **Nombre des inscrits par région** :
 
@@ -25,6 +35,18 @@
 
 
 # **Comparaison entre le nombre de délégation/région et le nombre d'inscrits**
+|Région|Délégations|Nombre d&\#39;inscrits|
+|---|---|---|
+|Sousse|16|369842|
+|Ben Arous|12|361187|
+|Kairouan|13|331016|
+|Sfax 2|8|328777|
+|Monastir|13|324703|
+|Bizerte|14|324383|
+|Tunis 2|10|314034|
+|Ariana|7|308006|
+|Sidi Bouzid|13|300240|
+|Tunis 1|11|299630|
 ![Alt text](img/npinsc_deg.png "isie")
 ▶
 On remarque que les délégations ayant le nombre d'inscrits le plus elevé sont celles ayant un nombre de bureau de vote le plus elevé donc on peut constater que le nombre d'inscrit est proportionnel avec le nombre de bureau de vote
@@ -67,4 +89,13 @@ On remarque que les délégations ayant le nombre d'inscrits le plus elevé sont
 ✅
 On remarque que le nombre d'inscrit entre homme et femme est presque egale a l'execption de quelques region où on remarque un nombre d'inscrit des hommes plus eleve que celui des femmes
 
+# **Conculsion importantes**
+✅Le nombre d'inscrit le plus elevé est constaté pour la region de Sousse suivi par Ben Arous et ensuite Kairouan et Sfax 2
+
+✅Le nombre d'inscrit entre homme et femme est presque egale a l'execption de quelques region où on remarque un nombre d'inscrit des hommes plus eleve que celui des femmes
+
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SeifAllah-BS/Mini_projetAD/main)
+
+![Alt text](img/logo.png "isie")
